@@ -8,4 +8,5 @@
 <li>Form validations</li>
 <li>Filter using JavaScript</li>
 <li>Linking an external API using AJAX.</li>
+<li>Understanding DOM</li>
 </ol>
