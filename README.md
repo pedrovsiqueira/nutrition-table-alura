@@ -1,5 +1,5 @@
 # tabela-nutricao-alura
-<h2>Application built to practice the following programming concepts using HTML, CSS, JavaScript and AJAX:</h2>
+<h3>Application built to practice the following programming concepts using HTML, CSS, JavaScript and AJAX:</h3>
 <ol>
 <li>Variables and Operators</li>
 <li>Arrays, While and Styles</li>
