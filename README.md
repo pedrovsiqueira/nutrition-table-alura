@@ -1,2 +1,9 @@
 # tabela-nutricao-alura
-Projeto realizado no curso de JavaScript: Programando na linguagem da web da plataforma Alura.
+##Application built to practice the following programming concepts using HTML, CSS, JavaScript and AJAX:
+Variables and Operators
+Arrays, While and Styles
+Events, Forms and creation of elements
+Good Javascript practices 
+Form validations
+Filter using JavaScript
+Linking an external API using AJAX.
